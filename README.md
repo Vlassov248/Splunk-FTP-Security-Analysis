@@ -4,9 +4,10 @@ Analytical FTP security case: detection of brute-force, password spraying, compr
 
 ## Demo
 
-- **Dashboard (screenshot):** [Dashboard.png](./FTP_dashboard.png)  
+- **Dashboard (screenshot):**
+![FTP_dashboard](./FTP_dashboard.png)
 - **Full report (DOCX):** [FTP_logs_report.docx](./FTP_logs_report.docx) — step-by-step searches, screenshots, observations, and conclusions.  
-- **Dashboard file:** [FTP_dashboard](./FTP_dashboard.png) — import into Splunk (Studio/SimpleXML).
+- **Dashboard file:** [FTP_dashboard.png](./FTP_dashboard.png)   — import into Splunk (Studio/SimpleXML).
 
 ## Data
 
